@@ -54,7 +54,6 @@ function ProductDetails(props) {
      };*/
     const navigate = useNavigate();
     const handleClick = (productId) => {
-        console.log(quantityToOrder);
         if (quantityToOrder.trim().length !== 0) {
             console.log('input value is NOT empty');
         } else {
