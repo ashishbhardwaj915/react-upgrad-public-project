@@ -109,7 +109,7 @@ export const SignIn = () => {
 
                                 <button type="submit" className="btn btn-primary btn-block mt-4" style={{ width: "100%", backgroundColor: "#3f51b5" }}>
                                     Login
-                                </button>
+                                </button> 
 
 
                                 <div className="form-floating mt-4">
